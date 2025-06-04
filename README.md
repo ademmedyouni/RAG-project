@@ -52,10 +52,15 @@ ollama pull nomic-embed-text
 streamlit run pdf-rag-streamlit.py
 ```
 
+
 ### Voice-Enabled Version
 ```bash
 python final-rag-voice.py
 ```
+![Capture d'écran 2025-06-04 081612](https://github.com/user-attachments/assets/15e8dc21-aadb-48d5-884d-3ea966bd2440)
+
+
+![Capture d'écran 2025-06-04 081836](https://github.com/user-attachments/assets/4155cdfd-5d6c-4cf7-8358-449c88c5b365)
 
 ## Configuration
 
